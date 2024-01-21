@@ -1,10 +1,10 @@
 # ValidaFecha
 
-<p align="justify"> Este repositorio contiene un programa en Java llamado `ValidaFecha`. Este programa se utiliza para validar el formato de una fecha ingresada por el usuario.</p>
+<p align="justify"> Este repositorio contiene un programa en Java llamado <b>ValidaFecha</b>. Este programa se utiliza para validar el formato de una fecha ingresada por el usuario.</p>
 
 ## Descripción
 
-<p align="justify"> El programa `ValidaFecha` solicita al usuario que ingrese una fecha de nacimiento en el formato 'dd/mm/yyyy'. Luego, valida el formato de la fecha ingresada y la convierte al formato 'dd/MM/yyyy'. Si la fecha ingresada es válida, el programa imprime "fecha correcta!" y termina. Si la fecha ingresada no es válida, el programa imprime "dato incorrecto!" y solicita al usuario que ingrese una nueva fecha. Este proceso se repite hasta que el usuario ingrese una fecha válida.</p>
+<p align="justify"> El programa <b>ValidaFecha</b> solicita al usuario que ingrese una fecha de nacimiento en el formato <code>dd/mm/yyyy</code>. Luego, valida el formato de la fecha ingresada y la convierte al formato <code>dd/MM/yyyy</code>. Si la fecha ingresada es válida, el programa imprime "fecha correcta!" y termina. Si la fecha ingresada no es válida, el programa imprime "dato incorrecto!" y solicita al usuario que ingrese una nueva fecha. Este proceso se repite hasta que el usuario ingrese una fecha válida.</p>
 
 ## Cómo ejecutar el programa
 

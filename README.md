@@ -1,4 +1,4 @@
-# ValidaFecha
+# ValidaFecha - Simpledateformat
 
 <p align="justify"> Este repositorio contiene un programa en Java llamado <b>ValidaFecha</b>. Este programa se utiliza para validar el formato de una fecha ingresada por el usuario.</p>
 
